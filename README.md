@@ -14,6 +14,6 @@ Molly1 is an 8-bit computer built in the style of front-panel computer designs o
 ### Features
 
 - Front panel LEDs: Power, D0-D7, A0-A15, CPU flags
-- Front panel switches: D0-D7, A0-A15, Run/Stop, Single Step (?), Power On-Off, Reset, Deposit/Store
+- Front panel switches: D0-D7, A0-A15, Run/Stop, Single Step (?), Power On-Off, Reset, Deposit/Store, Clock Select, Clock Speed (variable pot)
 - Power - 5V 3A wall wart
-- Chassis - Wood w/ dark brown stain (e.g. mahogany), blue/green/white front panel elements
+- Wood chassis with glass faceplate, screenprint faceplace elements
